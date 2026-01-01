@@ -15,7 +15,7 @@ A simple task tracker app that lets users **add tasks, mark them as complete, de
 
 ## Live Project URL
 You can view the live project here:  
-[Task Tracker Live](https://shivani-task-tracker.netlify.app)
+site is live at https://shivani-joshi21.github.io/task-tracker/
 
 ---
 
