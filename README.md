@@ -1,38 +1,29 @@
 # Task Tracker
 
-A simple **Task Tracker** web application built with **HTML, CSS, and JavaScript**.  
-It allows users to **add, complete, uncomplete, and delete tasks**, with completed tasks automatically moving to the end of the list.
+A simple task tracker app that lets users **add tasks, mark them as complete, delete tasks**, and keep track of pending tasks. Completed tasks are moved to the end of the list with a strikethrough, and users can unmark them to return them to the pending list.
 
 ---
 
-## 🔹 Features
-
-- Add new tasks
-- Mark tasks as complete
-- Unmark completed tasks
-- Completed tasks move to the **end of the list**
+## Features
+- Add new tasks with a description
+- Mark tasks as complete or uncomplete
 - Delete tasks
-- Completed tasks show **strikethrough**
-- Tasks stored in an **array of objects**
-- Dynamic DOM rendering using `renderTasks()` function
+- Completed tasks are moved to the end with strikethrough
+- Persistent task list (if using local storage in the app)
 
 ---
 
-## 🛠️ Technologies Used
-
-- HTML
-- CSS
-- JavaScript (Vanilla JS)
-- DOM Manipulation
-- Array Handling
+## Live Project URL
+You can view the live project here:  
+[Task Tracker Live](https://shivani-task-tracker.netlify.app)
 
 ---
 
-## 💻 How to Run
+## Getting Started
+To run this project locally:
 
-1. **Clone the repository**
-   ```bash
-   git clone <Shivani-Joshi21/task-tracker>
-------
-PROJECT URL :  https://shivani-joshi21.github.io/task-tracker/
+1. Clone the repository:
+```bash
+git clone https://github.com/Shivani-Joshi21/task-tracker.git
+
 
