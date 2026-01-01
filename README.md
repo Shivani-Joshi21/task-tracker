@@ -15,7 +15,7 @@ A simple task tracker app that lets users **add tasks, mark them as complete, de
 
 ## Live Project URL
 You can view the live project here:  
-site is live at file:///C:/Users/Admin/.vscode/task%20tracker/index.html
+site is live at https://shivani-joshi21.github.io/task-tracker/
 
 ---
 
