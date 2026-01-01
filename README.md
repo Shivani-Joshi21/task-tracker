@@ -34,4 +34,5 @@ It allows users to **add, complete, uncomplete, and delete tasks**, with complet
    ```bash
    git clone <Shivani-Joshi21/task-tracker>
 ------
-PROJECT URL :https://github.com/Shivani-Joshi21/task-tracker/blob/main/index.html
+PROJECT URL :https://shivani-joshi21.github.io/task-tracker/
+
