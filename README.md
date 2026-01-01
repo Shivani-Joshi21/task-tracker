@@ -32,4 +32,4 @@ It allows users to **add, complete, uncomplete, and delete tasks**, with complet
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <Shivani-Joshi21/task-tracker>
